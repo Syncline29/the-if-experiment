@@ -1,7 +1,7 @@
 {
     "callsign_patterns": {
-        "if_callsign": "Air India xxxVA",
-        "discord_callsign": "AIVAxxx"
+        "if_callsign": "xxxGG",
+        "discord_callsign": "GVGxxx"
     },
     "learn": {
         "ifc": "https://community.infiniteflight.com",
